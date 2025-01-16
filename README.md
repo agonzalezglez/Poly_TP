@@ -1,5 +1,6 @@
 # Poly_TP
 Object Oriented Programming Course 4BIM
+
 Student: Alondra Edith Gonzalez Gonzalez
 
 This project simulates a race between two characters, Mario and Yoshi, using object-oriented principles in C++. The program demonstrates inheritance, polymorphism, and the interaction between different classes such as Character, Mario, and Yoshi.
