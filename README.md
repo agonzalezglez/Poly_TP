@@ -24,8 +24,3 @@ Files
     Yoshi.h: Header file defining the Yoshi class, derived from Character.
     Yoshi.cpp: Implementation of the Yoshi class.
     main.cpp: The main file containing the simulation for the race.
-
-Mario has traveled 1 meters.
-Yoshi has traveled 3 meters.
-...
-Yoshi wins the Mushroom Cup!
