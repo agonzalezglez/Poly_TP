@@ -23,14 +23,8 @@ Files
     Mario.cpp: Implementation of the Mario class.
     Yoshi.h: Header file defining the Yoshi class, derived from Character.
     Yoshi.cpp: Implementation of the Yoshi class.
-    main.cpp: The main file containing the simulation logic for the race.
+    main.cpp: The main file containing the simulation for the race.
 
-Example Output
-
-Welcome to the Mushroom Cup Race!
-Here we go!
-Turi Turi Ti Tu!
-GO!
 Mario has traveled 1 meters.
 Yoshi has traveled 3 meters.
 ...
